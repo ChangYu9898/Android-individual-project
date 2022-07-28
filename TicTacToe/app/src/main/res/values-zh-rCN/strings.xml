@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">井字棋</string>
+    <string name="You_go_first_text">你先开始。</string>
+    <string name="Android_turn_text">这是电脑的回合。</string>
+    <string name="You_turn_text">这是你的回合(X)。</string>
+    <string name="Game_tie_text">平局！</string>
+    <string name="You_won_text">"你赢了!"</string>
+    <string name="Android_won_text">电脑赢了!</string>
+    <string name="Start_new_Game">开始新一局游戏</string>
+    <string name="DiffDialogTitle">设置难度</string>
+    <string name="FMDialogTitle">设定先手顺序</string>
+    <string name="Tie">平手</string>
+    <string name="Computer">电脑</string>
+    <string name="You">玩家</string>
+    <string name="Scoreboard">记分板</string>
+    <string name="optionMenuFMtitle">先手顺序</string>
+    <string name="optionMenuDiffTitle">难度</string>
+    <string name="optionMenuQuit">退出</string>
+    <string name="help_url">https://baike.baidu.com/item/%E4%BA%95%E5%AD%97%E6%A3%8B/4467444</string>
+    <string name="optionMenuHelp">帮助</string>
+</resources>

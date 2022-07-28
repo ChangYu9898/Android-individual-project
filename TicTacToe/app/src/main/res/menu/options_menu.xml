@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Help"
+        android:title="@string/optionMenuHelp"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/First_move"
+        android:title="@string/optionMenuFMtitle"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Difficulty"
+        android:title="@string/optionMenuDiffTitle"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Quit"
+        android:title="@string/optionMenuQuit"
+        app:showAsAction="never" />
+
+</menu>

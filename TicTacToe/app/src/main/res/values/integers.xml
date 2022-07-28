@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="wait_time">
+        <item>5000</item>
+        <item>3000</item>
+        <item>1000</item>
+    </integer-array>
+
+    <integer-array name="sounds">
+        <item>@raw/cy04</item>
+        <item>@raw/cy02</item>
+        <item>@raw/cy01</item>
+        <item>@raw/cy03</item>
+    </integer-array>
+</resources>

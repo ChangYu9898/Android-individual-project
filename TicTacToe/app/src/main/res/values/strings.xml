@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="You_go_first_text">You go first.</string>
+    <string name="Android_turn_text">It\'s Android\'s turn.</string>
+    <string name="You_turn_text">It\'s your turn (X).</string>
+    <string name="Game_tie_text">It\'s a tie!</string>
+    <string name="You_won_text">You won!</string>
+    <string name="Android_won_text">Android won!</string>
+    <string name="Start_new_Game">Start a New Game</string>
+    <string name="DiffDialogTitle">Set Difficulty</string>
+    <string name="FMDialogTitle">Set First move</string>
+    <string name="Tie">Tie</string>
+    <string name="Computer">Computer</string>
+    <string name="You">You</string>
+    <string name="Scoreboard">Scoreboard</string>
+    <string name="optionMenuFMtitle">First move</string>
+    <string name="optionMenuDiffTitle">Difficulty</string>
+    <string name="optionMenuQuit">Quit</string>
+    <string name="help_url">https://baike.baidu.com/item/%E4%BA%95%E5%AD%97%E6%A3%8B/4467444</string>
+    <string name="optionMenuHelp">Help</string>
+</resources>
